@@ -1,4 +1,4 @@
-# my-new-project-
+# mynewproject
 machine learning project
 <br>
 Author rajan yadav
